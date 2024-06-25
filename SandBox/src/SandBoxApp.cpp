@@ -5,19 +5,17 @@ class Sandbox : public Skibbidy::Application
 public:
 	Sandbox()
 	{
-
+		
 	}
 
 	~Sandbox()
 	{
-
+		 
 	}
 
 };
 
-int main()
+Skibbidy::Application* Skibbidy::CreateApplication()
 {
-	Sandbox* sandbox = new Sandbox();
-	sandbox->Run();
-	delete sandbox;
+	return new Sandbox();
 }

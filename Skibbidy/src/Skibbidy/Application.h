@@ -1,5 +1,6 @@
 #pragma once
 #include "Core.h"
+#include "iostream"
 
 namespace Skibbidy
 {
@@ -11,6 +12,7 @@ namespace Skibbidy
 
 		void Run();
 	};
+	Application* CreateApplication();
 }
 
 

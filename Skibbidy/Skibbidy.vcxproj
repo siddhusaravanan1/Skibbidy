@@ -14,6 +14,7 @@
     <ClInclude Include="src\Skibbidy.h" />
     <ClInclude Include="src\Skibbidy\Application.h" />
     <ClInclude Include="src\Skibbidy\Core.h" />
+    <ClInclude Include="src\Skibbidy\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Skibbidy\Application.cpp" />
