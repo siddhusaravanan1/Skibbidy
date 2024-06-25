@@ -11,10 +11,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\test.cpp" />
+    <ClInclude Include="src\Skibbidy.h" />
+    <ClInclude Include="src\Skibbidy\Application.h" />
+    <ClInclude Include="src\Skibbidy\Core.h" />
+    <ClInclude Include="src\Skibbidy\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\test.h" />
+    <ClCompile Include="src\Skibbidy\Application.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
@@ -61,7 +64,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>SKD_PLATFORM_WINDOWS;SKD_BUILD_DLL;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>

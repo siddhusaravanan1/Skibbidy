@@ -1,3 +1,2 @@
-﻿  Application.cpp
-C:\Users\siddh\Documents\Skibbidy-Engine\Skibbidy\SandBox\src\Application.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  SandBox.vcxproj -> C:\Users\siddh\Documents\Skibbidy-Engine\Skibbidy\bin\Debug-x64\SandBox\SandBox.exe
+﻿  SandBoxApp.cpp
+  SandBox.vcxproj -> C:\Users\ss\Documents\Skibbidy - Engine\Skibbidy\Skibbidy\bin\Debug-x64\SandBox\SandBox.exe
