@@ -1,39 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\",
+  "WorkspaceRootPath": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA50AAE5-06E3-44B1-8AAD-2C8F4CC6763E}|SandBox\\SandBox.vcxproj|C:\\USERS\\SS\\DOCUMENTS\\SKIBBIDY - ENGINE\\SKIBBIDY\\SKIBBIDY\\SKIBBIDY\\SRC\\SKIBBIDY\\CORE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA50AAE5-06E3-44B1-8AAD-2C8F4CC6763E}|SandBox\\SandBox.vcxproj|solutionrelative:SKIBBIDY\\SRC\\SKIBBIDY\\CORE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-=======
-      "AbsoluteMoniker": "D:0:0:{EA50AAE5-06E3-44B1-8AAD-2C8F4CC6763E}|SandBox\\SandBox.vcxproj|C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\SandBox\\src\\SandBoxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA50AAE5-06E3-44B1-8AAD-2C8F4CC6763E}|SandBox\\SandBox.vcxproj|solutionrelative:SandBox\\src\\SandBoxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\Skibbidy\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\Skibbidy\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\Skibbidy\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\Skibbidy\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\Skibbidy\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\Skibbidy\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\Skibbidy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
->>>>>>> 2a357db7c44b31e51214259001c26b084518ae48
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA50AAE5-06E3-44B1-8AAD-2C8F4CC6763E}|SandBox\\SandBox.vcxproj|C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\SandBox\\src\\SandBoxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA50AAE5-06E3-44B1-8AAD-2C8F4CC6763E}|SandBox\\SandBox.vcxproj|solutionrelative:SandBox\\src\\SandBoxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\Skibbidy\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFC3AB2B-9CC1-4417-A87C-E013278AAD68}|Skibbidy\\Skibbidy.vcxproj|solutionrelative:Skibbidy\\src\\Skibbidy\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,112 +41,112 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 252,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "SandBoxApp.cpp",
-              "DocumentMoniker": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\SandBox\\src\\SandBoxApp.cpp",
+              "DocumentMoniker": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\SandBox\\src\\SandBoxApp.cpp",
               "RelativeDocumentMoniker": "SandBox\\src\\SandBoxApp.cpp",
-              "ToolTip": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\SandBox\\src\\SandBoxApp.cpp",
+              "ToolTip": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\SandBox\\src\\SandBoxApp.cpp",
               "RelativeToolTip": "SandBox\\src\\SandBoxApp.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-24T16:02:07.487Z",
+              "WhenOpened": "2024-06-25T14:26:10.801Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EntryPoint.h",
-              "DocumentMoniker": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\EntryPoint.h",
-              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy\\EntryPoint.h",
-              "ToolTip": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\EntryPoint.h",
-              "RelativeToolTip": "Skibbidy\\src\\Skibbidy\\EntryPoint.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-25T09:41:43.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Application.h",
-              "DocumentMoniker": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.h",
-              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy\\Application.h",
-              "ToolTip": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.h",
-              "RelativeToolTip": "Skibbidy\\src\\Skibbidy\\Application.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Title": "Skibbidy.h",
+              "DocumentMoniker": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy.h",
+              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy.h",
+              "ToolTip": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy.h",
+              "RelativeToolTip": "Skibbidy\\src\\Skibbidy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-25T02:54:04.712Z",
+              "WhenOpened": "2024-06-25T16:04:41.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-              "Title": "test.cpp",
-              "DocumentMoniker": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\test.cpp",
-              "RelativeDocumentMoniker": "Skibbidy\\src\\test.cpp",
-              "ToolTip": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\test.cpp",
-              "RelativeToolTip": "Skibbidy\\src\\test.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
-=======
-              "DocumentIndex": 2,
-              "Title": "Application.cpp",
-              "DocumentMoniker": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.cpp",
-              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy\\Application.cpp",
-              "ToolTip": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.cpp",
-              "RelativeToolTip": "Skibbidy\\src\\Skibbidy\\Application.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
->>>>>>> 2a357db7c44b31e51214259001c26b084518ae48
+              "DocumentIndex": 3,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Log.cpp",
+              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy\\Log.cpp",
+              "ToolTip": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Log.cpp",
+              "RelativeToolTip": "Skibbidy\\src\\Skibbidy\\Log.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-25T02:54:47.98Z",
+              "WhenOpened": "2024-06-25T15:32:41.321Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Log.h",
+              "DocumentMoniker": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Log.h",
+              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy\\Log.h",
+              "ToolTip": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Log.h",
+              "RelativeToolTip": "Skibbidy\\src\\Skibbidy\\Log.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-25T15:32:28.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.cpp",
+              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy\\Application.cpp",
+              "ToolTip": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.cpp",
+              "RelativeToolTip": "Skibbidy\\src\\Skibbidy\\Application.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T14:26:17.571Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Core.h",
-              "DocumentMoniker": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Core.h",
-              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy\\Core.h",
-              "ToolTip": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Core.h",
-              "RelativeToolTip": "Skibbidy\\src\\Skibbidy\\Core.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\EntryPoint.h",
+              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy\\EntryPoint.h",
+              "ToolTip": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\EntryPoint.h",
+              "RelativeToolTip": "Skibbidy\\src\\Skibbidy\\EntryPoint.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-25T02:54:18.477Z",
+              "WhenOpened": "2024-06-25T14:26:19.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 2,
-              "Title": "test.h",
-              "DocumentMoniker": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\test.h",
-              "RelativeDocumentMoniker": "Skibbidy\\src\\test.h",
-              "ToolTip": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\test.h",
-              "RelativeToolTip": "Skibbidy\\src\\test.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
-=======
-              "DocumentIndex": 5,
-              "Title": "Skibbidy.h",
-              "DocumentMoniker": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy.h",
-              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy.h",
-              "ToolTip": "C:\\Users\\ss\\Documents\\Skibbidy - Engine\\Skibbidy\\Skibbidy\\Skibbidy\\src\\Skibbidy.h",
-              "RelativeToolTip": "Skibbidy\\src\\Skibbidy.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
->>>>>>> 2a357db7c44b31e51214259001c26b084518ae48
+              "DocumentIndex": 6,
+              "Title": "Core.h",
+              "DocumentMoniker": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Core.h",
+              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy\\Core.h",
+              "ToolTip": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Core.h",
+              "RelativeToolTip": "Skibbidy\\src\\Skibbidy\\Core.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-25T02:54:33.19Z",
+              "WhenOpened": "2024-06-25T14:26:19.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.h",
+              "DocumentMoniker": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.h",
+              "RelativeDocumentMoniker": "Skibbidy\\src\\Skibbidy\\Application.h",
+              "ToolTip": "C:\\Users\\siddh\\Documents\\Skibbidy-Engine\\Skibbidy\\Skibbidy\\src\\Skibbidy\\Application.h",
+              "RelativeToolTip": "Skibbidy\\src\\Skibbidy\\Application.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-25T14:26:18.746Z",
               "EditorCaption": ""
             }
           ]

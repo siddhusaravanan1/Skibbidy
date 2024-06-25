@@ -1,0 +1,3 @@
+[submodule "Skibbidy/vendor/spdlog"]
+	path = Skibbidy/vendor/spdlog
+	url = https://github.com/gabime/spdlog

@@ -1,2 +1,12 @@
-﻿  Application.cpp
-  Skibbidy.vcxproj -> C:\Users\ss\Documents\Skibbidy - Engine\Skibbidy\Skibbidy\bin\Debug-x64\Skibbidy\Skibbidy.dll
+﻿  Log.cpp
+C:\Users\siddh\Documents\Skibbidy-Engine\Skibbidy\Skibbidy\src\Skibbidy\Log.h(14,42): warning C4251: 'Skibbidy::Log::s_CoreLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Skibbidy::Log'
+  (compiling source file 'src/Skibbidy/Log.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(1525,7):
+  see declaration of 'std::shared_ptr<spdlog::logger>'
+  
+C:\Users\siddh\Documents\Skibbidy-Engine\Skibbidy\Skibbidy\src\Skibbidy\Log.h(15,42): warning C4251: 'Skibbidy::Log::s_ClientLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Skibbidy::Log'
+  (compiling source file 'src/Skibbidy/Log.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(1525,7):
+  see declaration of 'std::shared_ptr<spdlog::logger>'
+  
+  Skibbidy.vcxproj -> C:\Users\siddh\Documents\Skibbidy-Engine\Skibbidy\bin\Debug-x64\Skibbidy\Skibbidy.dll

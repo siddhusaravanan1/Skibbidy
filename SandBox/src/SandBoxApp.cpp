@@ -12,7 +12,6 @@ public:
 	{
 		 
 	}
-
 };
 
 Skibbidy::Application* Skibbidy::CreateApplication()
