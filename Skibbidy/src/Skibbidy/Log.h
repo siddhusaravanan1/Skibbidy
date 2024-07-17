@@ -1,6 +1,7 @@
 #pragma once
 #include "Core.h"
 #include "spdlog/spdlog.h"
+
 namespace Skibbidy
 {
 	class SKD_API Log
