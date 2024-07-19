@@ -7,7 +7,7 @@ int main(int argc, char** argv)
 {
 	auto app = Skibbidy::CreateApplication();
 	Skibbidy::Log::init();
-	Skibbidy::Log::GetCoreLogger()->warn("Nope");
+	Skibbidy::Log::GetCoreLogger()->critical("Krishna is gay");
 	app->Run();
 	delete app;
 }
